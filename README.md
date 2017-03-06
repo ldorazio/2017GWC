@@ -18,7 +18,7 @@
   <li>Clone our git repo</li>
     <ul>
       <li>Open Terminal</li>
-      <li>Type:  git clone https://github.com/graciedurham/2017GWC</li>
+      <li>Type:  git clone https://github.com/ldorazio/2017GWC.git</li>
       <li> See the following <a href="http://tinyurl.com/j58ggz5" target="_blank">  slides</a> for more info on how to use github </li>
     </ul>
     
