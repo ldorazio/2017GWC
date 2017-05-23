@@ -12,6 +12,7 @@
     Do Apple (upper left), System Preferences, Security and Privacy, click the Lock 
     to make changes (lower left), then click Allow apps downloaded from: anywhere.
     Go through the install steps. </p>
+    
   <li>Create a Github account</li>
     <p>Go to:  <a href="http://github.com" target="_blank">github.com</a> </p>
 
