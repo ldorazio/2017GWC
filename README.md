@@ -8,10 +8,10 @@
     <p>Mac: <a href="http://git-scm.com/download/mac" target="_blank">http://git-scm.com/download/mac</a> </p>
     <p>Windows:  <a href="http://git-scm.com/download/win" target="_blank">http://git-scm.com/download/win</a> </p>
 
-    <p>Double click the downloaded file.  You may need to change your security preferences.    
+    Double click the downloaded file.  You may need to change your security preferences.    
     Do Apple (upper left), System Preferences, Security and Privacy, click the Lock 
     to make changes (lower left), then click Allow apps downloaded from: anywhere.
-    Go through the install steps. </p>
+    Go through the install steps. 
     
   <li>Create a Github account</li>
     <p>Go to:  <a href="http://github.com" target="_blank">github.com</a> </p>
